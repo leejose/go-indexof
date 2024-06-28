@@ -1,5 +1,5 @@
 # IndexOf
-Get the index of an element in a given array.
+Get the index of an element in an array.
 
 ## Installation and Usage
 
